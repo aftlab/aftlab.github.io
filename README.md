@@ -1,4 +1,44 @@
-## Welcome to GitHub Pages
+
+
+# Welcome to Stanford Advanced Financial Technologies Laboratory
+
+## About
+
+### Faculty
+Kay Giesecke, Director
+Kapil Jain, co-Director
+Peter Glynn
+Markus Pelger
+### Affiliated Faculty
+### Visiting Researchers
+### Advisory Board
+### Former Students
+### Current Students
+
+## Research
+
+### Credit & Marketplaces
+### Real Estate
+### Insurance
+### Automated Investing
+### Payments & Blockchain
+### Capital Markets
+### Consumer Finance
+### Advanced Analytics and AI
+### Theoretical & Numerical Methods
+### High Performance Computing
+
+## Teaching
+
+## Events
+
+## Seminars
+
+## Contact Us
+
+
+
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/aftlab/aftlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
