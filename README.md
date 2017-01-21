@@ -1,13 +1,13 @@
 
 
-# Welcome to Stanford Advanced Financial Technologies Laboratory
+# Welcome to the Stanford Advanced Financial Technologies Laboratory (AFTLAB)
 
 ## About
 
 ### Faculty
-Kay Giesecke, Director
-Kapil Jain, co-Director
-Peter Glynn
+Kay Giesecke (Director), 
+Kapil Jain (co-Director),
+Peter Glynn,
 Markus Pelger
 ### Affiliated Faculty
 ### Visiting Researchers
@@ -36,7 +36,7 @@ Markus Pelger
 
 ## Contact Us
 
-
+info@aftlab.org
 
 <!-- ## Welcome to GitHub Pages
 
@@ -75,3 +75,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
