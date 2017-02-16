@@ -73,6 +73,10 @@
 <p>
     <strong>Affiliate Membership</strong>
 </p>
+    <em>
+        We are grateful for the generous support of our 2017 Affiliate members:
+        State Street Global and BBVA.
+    </em>
 <p>
     $150,000 per year membership supports the students, research and
     educational goals of the AFTLab.
@@ -104,8 +108,7 @@
 </p>
 <p>
     <em>
-        We are grateful for the generous support of our 2017 Affiliate members:
-        State Street Global and BBVA.
+       This program is governed by Stanford University’s published policies on research and treatment of research results. A full description can be found  <a href="https://doresearch.stanford.edu/sites/default/files/documents/stanford%20University%20Policies%20Affecting%20Industrial%20Affilates%20Program%20Memberships.pdf">here.</a>
     </em>
 </p>
 <h1>
