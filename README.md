@@ -1,8 +1,10 @@
 <p align="center">
-    Stanford Advanced Financial Technologies Laboratory
+ <h1>
+    <strong>Stanford Advanced Financial Technologies Laboratory </strong>
+</h1>   
 </p>
 <p align="center">
-    fintech.stanford.edu
+    
 </p>
 <h1>
     <strong>AFTLab Mission </strong>
