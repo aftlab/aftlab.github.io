@@ -73,7 +73,7 @@
 <p>
     <strong>Affiliate Membership</strong>
 </p>
-    <p>
+<p>
         We are grateful for the generous support of our 2017 Affiliate members:
         State Street Global and BBVA.
     </p>
