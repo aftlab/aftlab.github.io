@@ -73,10 +73,10 @@
 <p>
     <strong>Affiliate Membership</strong>
 </p>
-<p>
+<em>
         We are grateful for the generous support of our 2017 Affiliate members:
         State Street Global and BBVA.
-    </p>
+    </em>
 <p>
     $150,000 per year membership supports the students, research and
     educational goals of the AFTLab.
