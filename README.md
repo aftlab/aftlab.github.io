@@ -360,7 +360,7 @@
   
 </p>
 <p>
-    <strong>AFTLab Development</strong>
+    <strong>Development</strong>
 </p>
 <p>
     Mauricio Valencia (Corporate), <a href="mailto:mvalenci@stanford.edu">mvalenci@stanford.edu</a><strong></strong>
