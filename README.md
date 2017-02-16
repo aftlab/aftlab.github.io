@@ -65,37 +65,7 @@
     <strong>AFTLab Programs</strong>
     <strong></strong>
 </h1>
-<p>
-    <strong>Fintech Project Courses</strong>
-</p>
-<p>
-    MS&amp;E 246: Financial Risk Analytics
-</p>
-<p>
-    MS&amp;E 446: AI in Fintech
-</p>
-<p>
-    CME 244: Topics in Mathematical and Computational Finance
-</p>
-<p>
-    MS&amp;E 447: Systemic and Market Risk
-</p>
-<p>
-    MS&amp;E 347: Credit Risk Modeling
-</p>
-<p>
-    MS&amp;E 348: Dynamic Asset Allocation
-</p>
-<p>
-    MS&amp;E 448: Big Financial Data and Algorithmic Trading
-    <br/>
-    <br/>
-</p>
-<p>
-    <em>
-        Top posters selected for website, seminar and conference presentation
-    </em>
-</p>
+
 <p>
     <strong>Annual Fintech Forum</strong>
 </p>
