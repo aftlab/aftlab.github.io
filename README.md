@@ -171,11 +171,9 @@
     · Strategic Discussion &amp; Lab Update: Goals and Direction, State of the
     Union, Panel Discussion
 </p>
-<ul>
-    <li>
-        Networking Dinner
-    </li>
-</ul>
+<p>
+    · Networking Dinner
+</p>
 <p>
     <strong>Special Workshops</strong>
 </p>
@@ -203,11 +201,9 @@
 <p>
     <strong>PhD Student Research Talks</strong>
 </p>
-<ul>
-    <li>
-        5-8 talks per quarter
-    </li>
-</ul>
+<p>
+    · 5-8 talks per quarter
+</p>
 <p>
     · Doctoral students discuss their research and solicit real-time feedback
 </p>
