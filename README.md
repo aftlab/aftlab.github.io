@@ -15,57 +15,7 @@
         make better financial decisions”
     </em>
 </p>
-<h1>
-    <strong>Research</strong>
-</h1>
-<p>
-    <strong>Core Areas</strong>
-</p>
-<p>
-    Machine Intelligence
-</p>
-<p>
-    High Performance Computing
-</p>
-<p>
-    Theory &amp; Algorithms
-</p>
-<p>
-    Consumer Credit
-</p>
-<p>
-    SME &amp; Corporate Credit
-</p>
-<p>
-    Real Estate
-</p>
-<p>
-    Investec &amp; Capital Markets
-</p>
-<p>
-    <strong>Other Application Areas</strong>
-</p>
-<p>
-    Payments
-</p>
-<p>
-    Identity &amp; Fraud Detection
-</p>
-<p>
-    Bitcoin &amp; Blockchain
-</p>
-<p>
-    Energy, Commodities &amp; Agriculture
-</p>
-<p>
-    Financial Regulation/ RegTech
-</p>
-<p>
-    Systemic Financial Risk
-</p>
-<p>
-    Insurance/ InsureTech
-</p>
+
 <h1>
     <strong>AFTLab Affiliates</strong>
     <strong></strong>
@@ -230,6 +180,57 @@
 </p>
 <p>
     · Last session features top posters from AFTLab project courses
+</p>
+<h1>
+    <strong>AFTLab Research</strong>
+</h1>
+<p>
+    <strong>Core Areas</strong>
+</p>
+<p>
+    Machine Intelligence
+</p>
+<p>
+    High Performance Computing
+</p>
+<p>
+    Theory &amp; Algorithms
+</p>
+<p>
+    Consumer Credit
+</p>
+<p>
+    SME &amp; Corporate Credit
+</p>
+<p>
+    Real Estate
+</p>
+<p>
+    Investec &amp; Capital Markets
+</p>
+<p>
+    <strong>Other Application Areas</strong>
+</p>
+<p>
+    Payments
+</p>
+<p>
+    Identity &amp; Fraud Detection
+</p>
+<p>
+    Bitcoin &amp; Blockchain
+</p>
+<p>
+    Energy, Commodities &amp; Agriculture
+</p>
+<p>
+    Financial Regulation/ RegTech
+</p>
+<p>
+    Systemic Financial Risk
+</p>
+<p>
+    Insurance/ InsureTech
 </p>
 <h1>
     <strong>AFTLab People</strong>
