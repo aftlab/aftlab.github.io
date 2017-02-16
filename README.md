@@ -342,7 +342,7 @@
     Social Algorithms Laboratory (SOAL)
 </p>
 <h1>
-    <strong>AFTLAB Contacts</strong>
+    <strong>AFTLab Contacts</strong>
 </h1>
 <p>
     <strong>Directors</strong>
