@@ -342,35 +342,35 @@
     Social Algorithms Laboratory (SOAL)
 </p>
 <h1>
-    <strong>ATLAB Contacts</strong>
+    <strong>AFTLAB Contacts</strong>
 </h1>
 <p>
-    <strong>AFTLab Directors</strong>
+    <strong>Directors</strong>
 </p>
 <p>
-    Kay Giesecke
+    Kay Giesecke, <a href="mailto:giesecke@stanford.edu">giesecke@stanford.edu</a>
 </p>
 <p>
-    <a href="mailto:giesecke@stanford.edu">giesecke@stanford.edu</a>
+    
 </p>
 <p>
-    Kapil Jain
+    Kapil Jain, <a href="mailto:kkjain@stanford.edu">kkjain@stanford.edu</a>
 </p>
 <p>
-    <a href="mailto:kkjain@stanford.edu">kkjain@stanford.edu</a>
+  
 </p>
 <p>
     <strong>AFTLab Development</strong>
 </p>
 <p>
-    Mauricio Valencia, Corporate<strong></strong>
+    Mauricio Valencia (Corporate), <a href="mailto:mvalenci@stanford.edu">mvalenci@stanford.edu</a><strong></strong>
 </p>
 <p>
-    <a href="mailto:mvalenci@stanford.edu">mvalenci@stanford.edu</a>
+    
 </p>
 <p>
-    Matthew Bahls, Individual
+    Matthew Bahls (Individual), <a href="mailto:mbahls@stanford.edu">mbahls@stanford.edu</a>
 </p>
 <p>
-    <a href="mailto:mbahls@stanford.edu">mbahls@stanford.edu</a>
+   
 </p>
