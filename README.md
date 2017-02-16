@@ -28,7 +28,7 @@
         State Street Global and BBVA.
     </em>
 <p>
-    $150,000 per year membership supports the students, research and
+    $175,000 per year membership supports the students, research and
     educational goals of the AFTLab.
 </p>
 <p>
